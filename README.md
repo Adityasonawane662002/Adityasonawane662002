@@ -6,4 +6,4 @@ I'm a passionate and detail-oriented Data Analyst with a strong foundation in SQ
 🛠️ Skills & Tools
 Languages: Python SQL
 Tools: Power BI Excel
-Techniques: Machine Learning Data Visualization
+
